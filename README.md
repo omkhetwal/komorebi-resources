@@ -7,7 +7,7 @@
 [Figma link](https://www.figma.com/file/s9kIqtmxfrkyo3OVcOOYiJ/Komorebi---E-commerce-Website---YouTube-Channel?type=design&node-id=0%3A1&t=rOYJIYh1njZ3ESrf-1)
 
 
-[Figma Design system link](Figma Design System : https://www.figma.com/file/s9kIqtmxfrkyo3OVcOOYiJ/Komorebi---E-commerce-Website---YouTube-Channel?type=design&node-id=303-333)
+[Figma Design system link ](Figma Design System : https://www.figma.com/file/s9kIqtmxfrkyo3OVcOOYiJ/Komorebi---E-commerce-Website---YouTube-Channel?type=design&node-id=303-333)
 
 [Figma Design](https://www.figma.com/file/s9kIqtmxfrkyo3OVcOOYiJ/Komorebi---E-commerce-Website---YouTube-Channel?type=design&node-id=115-152)
 
