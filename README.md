@@ -1,7 +1,6 @@
 # komorebi-resources
 
 
-[Join discord server](https://discord.gg/zzCTKpZtW7)
 
 
 [Figma link](https://www.figma.com/file/s9kIqtmxfrkyo3OVcOOYiJ/Komorebi---E-commerce-Website---YouTube-Channel?type=design&node-id=0%3A1&t=rOYJIYh1njZ3ESrf-1)
